@@ -10,8 +10,8 @@ We consider an image classification task using the widely used CIFAR-10 dataset.
 In Deep Learning using basic operations.ipynb we implimented a simple two-layer neural network and its training algorithm based on back-propagation using only basic matrix operations. 
 
 And then implimeted the same architechure using PyTorch library. 
-nput_size = 32 * 32 * 3
 
+input_size = 32 * 32 * 3
 hidden_size = [50]
 
 num_classes = 10
