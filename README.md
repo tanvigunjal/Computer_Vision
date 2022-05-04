@@ -11,7 +11,7 @@ In Deep Learning using basic operations.ipynb we implimented a simple two-layer 
 
 And then implimeted the same architechure using PyTorch library. 
 
-input_size = 32 * 32 * 3
+input_size = 32 * 32 * 3 \n
 hidden_size = [50]
 
 num_classes = 10
